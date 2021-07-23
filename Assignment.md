@@ -25,19 +25,16 @@
 </html>
 ```
 
-
 1. Under the `src` directory, create files `index1.js` and `index1.html`. Link `js` file to the `html` file, and test if it's working correctly.
 1. Using the given HTML mark up, your task is to create a different random colour every time the button `Click Me` is clicked.(Create a method that does it)
 1. Set the background colour of the page to this random colour, additionally display the RGB values of the colour if you can on the web page.
 
-
-
 ### 2: Mouseover and Mouseout
 
- Your goal is to add two events `mouseover` and `mouseout` to the same element. Such that, if the text is hovered over then “mouseover” event occur and RespondMouseOver function invoked, similarly for “mouseout” event RespondMouseOut function invoked. The corresponding event name `mouseover event` or `mouseover event` is displayed in the element with `id` effect.
+Your goal is to add two events `mouseover` and `mouseout` to the same element. Such that, if the text is hovered over then “mouseover” event occur and RespondMouseOver function invoked, similarly for “mouseout” event RespondMouseOut function invoked. The corresponding event name `mouseover event` or `mouseover event` is displayed in the element with `id` effect.
 
- 1. Under the `src` directory, create files `index2.js` and `index2.html`. Link `js` file to the `html` file, and test if it's working correctly.
- 1. Use the given HTML mark up provided
+1.  Under the `src` directory, create files `index2.js` and `index2.html`. Link `js` file to the `html` file, and test if it's working correctly.
+1.  Use the given HTML mark up provided
 
 ```HTML
 <!DOCTYPE html>
@@ -60,11 +57,6 @@
 
   </html>
 ```
-
-
-
-
-
 
 ## Submission Guidelines
 
